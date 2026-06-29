@@ -1,4 +1,2 @@
-This is new data of RestApplication file line-1
-This is new data of RestApplication file line-2
 This is new data of RestApplication file line-3
 This is new data of RestApplication file line-4
